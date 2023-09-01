@@ -25,7 +25,7 @@
 
 .main {
     background-color: #F3FDE8;
-    padding: 30px;
+    padding: 50px;
 }
 
 .column-3 {
@@ -38,13 +38,19 @@
 .content {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: small;
+    font-size: medium;
     margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
 
+}
+.content:hover {
+    font-size: larger;
+    background-color: #b3e59c;
 }
 
 .note {
-    font-size: smaller;
+    font-size: small;
     color: rgb(85, 64, 64);
 }
 
@@ -62,7 +68,7 @@
     padding: 10px;
 
     background: #A8DF8E;
-    border-bottom: 4px solid #FFBFBF;
+    border-bottom: 6px solid #FFBFBF;
 }
 
 .name {
