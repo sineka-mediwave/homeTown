@@ -1,3 +1,72 @@
-#bg-img {
-    background: url(assets/nammaChennai.jpg);
+.header {
+    background-image: url(assets/marina.jpg);
+    background-size:cover;
+    color: white;
+    text-align: center;
+    height: 200px;
+    padding: 20px;
+    
+}
+
+.title {
+    display: inline-block;
+    background: rgb(33, 117, 150);
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+
+.subtitle {
+    display: inline-block;
+    background: rgb(33, 150, 144);
+    padding: 2px 10px;
+    border-radius: 5px;
+
+}
+
+.main {
+    background-color: #F3FDE8;
+}
+
+.column-3 {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.content {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    margin: 20px;
+}
+
+.note {
+    font-size: smaller;
+}
+
+.mini-img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+    background: rgb(175, 174, 117);
+    border-bottom: 4px solid rgb(223, 163, 95);
+}
+
+.content {
+    display: flexbox;
+}
+
+#avatar {
+    width: 150px;
+    margin: 20PX;
+    border-radius: 20px;
 }
