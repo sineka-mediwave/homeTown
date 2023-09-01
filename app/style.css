@@ -5,6 +5,7 @@
     text-align: center;
     height: 500px;
     padding: 20px;
+    font-family: 'Macondo', cursive;
     
 }
 
@@ -28,6 +29,11 @@
     padding: 50px;
 }
 
+h2 {
+    text-align: center;
+    color: #387fa0;
+    font-family: 'Macondo', cursive;
+}
 .column-3 {
     display: flex;
     width: 100%;
@@ -37,7 +43,7 @@
 
 .content {
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Macondo', cursive;
     font-size: medium;
     margin: 20px;
     padding: 20px;
@@ -69,6 +75,7 @@
 
     background: #A8DF8E;
     border-bottom: 6px solid #FFBFBF;
+    font-family: 'Macondo', cursive;
 }
 
 .name {

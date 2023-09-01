@@ -7,4 +7,4 @@ about our home town which contains three main block.
 
 ## adding hover effect
 
-added hover in 2nd column content.
+added hover in 2nd column content. and heading tag
